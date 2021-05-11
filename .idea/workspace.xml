@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f4a53fc4-c0cc-4834-a431-a7860be1404c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/themes/butterfly/layout/includes/widget/card_map.pug" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/butterfly/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/themes/butterfly/_config.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/butterfly/layout/includes/footer.pug" beforeDir="false" afterPath="$PROJECT_DIR$/themes/butterfly/layout/includes/footer.pug" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/butterfly/layout/includes/widget/index.pug" beforeDir="false" afterPath="$PROJECT_DIR$/themes/butterfly/layout/includes/widget/index.pug" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
