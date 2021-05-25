@@ -1,15 +1,7 @@
---- 
-title: {{ title }} 
-date: {{ date }} 
-author: 
-img: 
-coverImg: 
-top: false 
-cover: false 
-toc: true 
-mathjax: false 
-password: 
-summary: 
-tags: 
-categories: 
+---
+title: {{ title }}
+date: {{ date }}
+type: 
+top_img: 
+comments: 
 ---

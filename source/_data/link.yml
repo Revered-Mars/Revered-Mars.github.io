@@ -12,16 +12,12 @@
 - class_name: 网站
   class_desc: 网站搭建参考
   link_list:
-    - name: Youtube
-      link: https://www.youtube.com/
-      avatar: https://i.loli.net/2020/05/14/9ZkGg8v3azHJfM1.png
-      descr: 视频网站
-    - name: Weibo
-      link: https://www.weibo.com/
-      avatar: https://i.loli.net/2020/05/14/TLJBum386vcnI1P.png
-      descr: 中国最大社交分享平台
-    - name: Twitter
-      link: https://twitter.com/
-      avatar: https://i.loli.net/2020/05/14/5VyHPQqR6LWF39a.png
-      descr: 社交分享平台
+    - name: Wallpapers
+      link: https://wallroom.io/
+      avatar: https://wallroom.io/img/favicon.ico
+      descr: 首页图片推荐
+    - name: 免费素材图片 · Pexels
+      link: https://www.pexels.com/zh-cn/
+      avatar: https://www.pexels.com/assets/pexels-stock-photos-6c3d5eb0cbed47e1bdf44ff85ebd9cd4669f50b895b3c6e76a23a4fd43852099.jpg
+      descr: 文章封面图推荐
 
