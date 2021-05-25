@@ -11,10 +11,10 @@ https://hexo.io/zh-cn/docs/setup
 
 https://my.freenom.com/
 
-revered_mars@qq.com
+qq英文邮箱注册
 
 ## github
-Revered-Mars / 1046097676@qq.com
+Revered-Mars / qq邮箱注册
 
 http://blog.fswl.cf/
 
@@ -27,3 +27,12 @@ https://ethant.top/articles/hexo541u/
 https://clustrmaps.com/
 
 https://yangchaoyi.vip/posts/520520/#%E6%B7%BB%E5%8A%A0%E8%AE%BF%E5%AE%A2%E5%9C%B0%E5%9B%BE
+
+## github保存源码
+https://zhuanlan.zhihu.com/p/71544809
+
+## 免费DDNS 
+https://dns.he.net/
+User name: reveredmars1
+foxmail 注册
+
